@@ -1,2 +1,2 @@
 # DBMS-notes
-curated dbms concepts for better foundation 
+curated dbms concepts for a better foundation 
