@@ -1,2 +1,2 @@
 # DBMS-notes
-In-depth SQL notes for comprehensive learning and technical interview preparation.
+curated dbms concepts for better foundation 
