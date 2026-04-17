@@ -1,2 +1,2 @@
 # DBMS-notes
-curated dbms concepts for a better foundation 
+Notes on the basic concepts of Database Management System.
